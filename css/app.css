@@ -102,6 +102,13 @@ input[type="text"].dream-search:focus {
 }
 */
 
+
+/* Base code (original) */
+
+body {
+  background: #C2DBE5;
+}
+
 .svgicon svg {
   display: inline-block;
   vertical-align: middle;
